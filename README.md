@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi Dev! 👋
 
-<!--
-**rendyadittt/rendyadittt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 👋 **i'm :** **<a href="http://instagram.com/rendyadittt/">@rendyadittt</a>**
+<img src=”http://instagram.com/rendyadittt/”>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
