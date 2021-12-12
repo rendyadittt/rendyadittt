@@ -1,4 +1,4 @@
-# Hi Dev! 👋 <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="80">
+# Hi Code Lovers! 👋 <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="80">
 
 
 - 👋 **i'm :** **<a href="http://instagram.com/rendyadittt/">@rendyadittt</a>**
